@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food2Fork</string>
+    <string name="title_activity_recipe_details">RecipeDetails</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="ingredients_field"><b>Ingredients:</b></string>
+    <string name="source_field_title"><b>Directions:</b></string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="connection_error_message">Cannot retrieve data from server</string>
+    <string name="exit">Exit</string>
+</resources>
